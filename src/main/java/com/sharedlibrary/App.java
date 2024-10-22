@@ -1,6 +1,6 @@
 package com.sharedlibrary;
 
-/**
+/***
  * Hello world!
  *
  */
